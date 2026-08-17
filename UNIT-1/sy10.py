@@ -1,9 +1,3 @@
-
-
-
-
-
-
 def factorial(n):
     if n==0 or n==1:
         return 1
@@ -20,30 +14,4 @@ def fib(n):
 num=9
 for i in range(num):
     print(fib(i),end=" ")
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
