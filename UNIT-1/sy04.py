@@ -5,7 +5,7 @@ print("First 6 character \t: ",sample[0:6])
 print("Slice after index 7\t:",sample[7:])
 
 
-name = "Meet"
+name = "joshi"
 marks = 98.552
 
 F_string = f"Hello {name}, my marks is {marks:.2f}%."
